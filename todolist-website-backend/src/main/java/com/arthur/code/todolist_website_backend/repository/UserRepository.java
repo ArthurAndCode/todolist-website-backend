@@ -1,4 +1,4 @@
-package com.arthur.code.todolist_website_backend.data;
+package com.arthur.code.todolist_website_backend.repository;
 
 import com.arthur.code.todolist_website_backend.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;

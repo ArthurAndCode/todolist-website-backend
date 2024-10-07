@@ -1,7 +1,7 @@
 package com.arthur.code.todolist_website_backend.controller;
 
 import com.arthur.code.todolist_website_backend.model.Task;
-import com.arthur.code.todolist_website_backend.service.TaskService;
+import com.arthur.code.todolist_website_backend.service.taskService.TaskService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

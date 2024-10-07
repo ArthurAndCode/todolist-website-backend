@@ -1,8 +1,8 @@
 package com.arthur.code.todolist_website_backend.service.userService;
 
-import com.arthur.code.todolist_website_backend.data.UserRepository;
+import com.arthur.code.todolist_website_backend.repository.UserRepository;
 import com.arthur.code.todolist_website_backend.model.User;
-import com.arthur.code.todolist_website_backend.service.TaskService;
+import com.arthur.code.todolist_website_backend.service.taskService.TaskService;
 import jakarta.servlet.http.Cookie;
 import jakarta.servlet.http.HttpServletResponse;
 import org.springframework.stereotype.Service;

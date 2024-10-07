@@ -1,6 +1,6 @@
-package com.arthur.code.todolist_website_backend.service;
+package com.arthur.code.todolist_website_backend.service.taskService;
 
-import com.arthur.code.todolist_website_backend.data.TaskRepository;
+import com.arthur.code.todolist_website_backend.repository.TaskRepository;
 import com.arthur.code.todolist_website_backend.model.Task;
 import lombok.AllArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
